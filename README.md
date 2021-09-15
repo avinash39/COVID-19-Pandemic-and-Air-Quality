@@ -3,10 +3,11 @@
 ## Files 
 
 ## How to run this Project? 
+
 ### Outputs 
 -  NO2 level(µmol/m^2) in 2019 
 
-![image](https://github.com/avinash39/COVID-19-Pandemic-and-Air-Quality/output/India/PNG/2019.png)
+<img src="https://github.com/avinash39/COVID-19-Pandemic-and-Air-Quality/output/India/PNG/2019.png)
 
 ## Refrences
 
