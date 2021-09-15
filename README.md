@@ -25,12 +25,21 @@ before and during the different phases of lockdown through satellite obsevation 
 ## How to run this Project? 
 - Create a virtual environment
 
- ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
 ```
-
+conda create -n env python=3.8
+```
+- Activate the Environment and install all the required packages
+ 
+```
+conda activate env
+pip install pandas
+pip install matplotlib
+pip install geemap
+conda install geopandas
+conda install mamba -c conda-forge
+mamba install geemap xarray_leaflet -c conda-forge
+conda install jupyter_contrib_nbextensions -c conda-forge
+```
 ### Outputs 
 - NO2 level(µmol/m^2) in 2019 and 2020
 
