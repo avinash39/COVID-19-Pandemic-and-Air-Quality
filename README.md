@@ -53,9 +53,11 @@
 
 ![Phase_IV_Bang](/output/Bang/PNG/phase_IV_Bang.png)
 
-- Time-Series analysis over Delhi and Bangalore
+- Time-Series analysis over Delhi
 
 ![Delhi](/output/Time-Series/Delhi.png)
+
+- Time-Series analysis over Bangalore
 
 ![Bang](/output/Time-Series/Bang.png)
 
