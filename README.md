@@ -12,6 +12,8 @@ before and during the different phases of lockdown through satellite obsevation 
 
 
 ## Files 
+### Input
+- The input folder contains all the input files.
 
 ## How to run this Project? 
 
