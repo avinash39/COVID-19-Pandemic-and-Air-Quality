@@ -5,7 +5,7 @@
 ## How to run this Project? 
 
 ### Outputs 
--  NO2 level(µmol/m^2) in 2019 and 2020
+- NO2 level(µmol/m^2) in 2019 and 2020
 
 ![2019](/output/India/PNG/2019.png) ![2020](/output/India/PNG/2020.png)
 
@@ -24,6 +24,15 @@
 ![phase-III](/output/India/PNG/Phase_III_IND.png)
 
 ![phase-IV](/output/India/PNG/phase_IV_IND.png)
+
+- NO2 level(µmol/m^2) over Delhi
+![Pre lockdown_Delhi](/output/India/PNG/pre-lockDown_Delhi.png) ![Phase_I_Delhi](/output/India/PNG/phase_I_Delhi.png)
+
+![Phase_II_Delhi](/output/India/PNG/Phase_II_Delhi.png)         ![Phase_III_Delhi](/output/India/PNG/phase_III_Delhi.png)
+
+![Phase_IV_Delhi](/output/India/PNG/Phase_IV_Delhi.png)
+
+
 
 ## Refrences
 
