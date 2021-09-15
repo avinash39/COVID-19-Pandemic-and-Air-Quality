@@ -7,8 +7,8 @@ Phase-II (15/04/2020 - 03/05/2020), Phase-III (04/05/2020 - 17/05/2020) and Phas
 (18/05/2020 – 31/05/2020). All major anthropogenic activities contributing to atmospheric
 pollution (such as industries, vehicles, and other activities) were restricted during the lockdown.
 The current report examines the impact of the lockdown on tropospheric NO2 concentrations
-before and during the different phases of lockdown through satellite (Sentinel 5P) and groundbased
-(CPCB) measurement across India and two major cities Delhi and Bangalore.
+before and during the different phases of lockdown through satellite obsevation and groundbased
+(CPCB) measurement across India and two major cities Delhi and Bangalore. Sentinel-5P NRTI NO2:Near Real-Time Nitrogen Dioxide dataset has been used for the analysis and is directly imported from the [GEE Image Collection](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#description).
 ## Files 
 
 ## How to run this Project? 
