@@ -19,7 +19,7 @@
 
 ![phase-I](/output/India/PNG/Phase_I_IND.png)
 
-![phase-II](/output/India/PNG/Phase_II_IND.png) 
+![phase-II](/output/India/PNG/phase_II_IND.png) 
 
 ![phase-III](/output/India/PNG/Phase_III_IND.png)
 
