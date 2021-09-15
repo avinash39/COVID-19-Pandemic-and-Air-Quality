@@ -1,4 +1,4 @@
-# COVID-19-Pandemic-and-Air-Quality
+# COVID-19 Pandemic and Air-Quality
 # Introduction
 
 ## Refrences
