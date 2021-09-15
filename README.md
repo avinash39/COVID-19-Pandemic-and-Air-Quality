@@ -1,5 +1,14 @@
 # COVID-19 Pandemic and Air-Quality
-## Introduction 
+## Introduction
+Nitrogen Dioxide (NO2), one of the major pollutants, results from vehicular, industrial, and
+thermal power plant emissions. During the COVID-19 pandemic, a nationwide lockdown was
+imposed into four phases from March 25 - May 31, 2020; Phase-I (25/03/2020 - 14/04/2020),
+Phase-II (15/04/2020 - 03/05/2020), Phase-III (04/05/2020 - 17/05/2020) and Phase-IV
+(18/05/2020 – 31/05/2020). All major anthropogenic activities contributing to atmospheric
+pollution (such as industries, vehicles, and other activities) were restricted during the lockdown.
+The current report examines the impact of the lockdown on tropospheric NO2 concentrations
+before and during the different phases of lockdown through satellite (Sentinel 5P) and groundbased
+(CPCB) measurement across India and two major cities Delhi and Bangalore.
 ## Files 
 
 ## How to run this Project? 
