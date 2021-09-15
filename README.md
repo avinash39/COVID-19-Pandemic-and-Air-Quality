@@ -5,7 +5,7 @@
 ## How to run this Project? 
 
 ### Outputs 
--  NO2 level(µmol/m^2) in 2019 
+-  NO2 level(µmol/m^2) in 2019 and 2020
 
 ![2019](/output/India/PNG/2019.png) ![2020](/output/India/PNG/2020.png)
 ## Refrences
