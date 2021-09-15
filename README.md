@@ -6,7 +6,7 @@
 ### Outputs 
 -  Entropy 
 
-![image](Image_analysis/results/idol_entropy.png)
+![image](COVID-19-Pandemic-and-Air-Quality/output/India/PNG/)
 
 ## Refrences
 
