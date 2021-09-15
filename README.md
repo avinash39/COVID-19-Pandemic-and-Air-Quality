@@ -14,7 +14,14 @@ before and during the different phases of lockdown through satellite obsevation 
 ## Files 
 ### Input
 - The input folder contains all the input files.
-
+### Output
+- The input folder contains all the input files.
+### Requiremet
+- The Requirement file contains all the packages required to run the project.
+### Air Quality.ipynb
+- It is a Jupyter Notebook document containing all programs.
+### Report
+- It is the analysis part of the Project.
 ## How to run this Project? 
 
 ### Outputs 
