@@ -26,11 +26,11 @@
 ![phase-IV](/output/India/PNG/phase_IV_IND.png)
 
 - NO2 level(µmol/m^2) over Delhi
-![Pre lockdown_Delhi](/output/India/PNG/pre-lockDown_Delhi.png) ![Phase_I_Delhi](/output/India/PNG/phase_I_Delhi.png)
+![Pre lockdown_Delhi](/output/Delhi/PNG/pre-lockDown_Delhi.png) ![Phase_I_Delhi](/output/Delhi/PNG/phase_I_Delhi.png)
 
-![Phase_II_Delhi](/output/India/PNG/Phase_II_Delhi.png)         ![Phase_III_Delhi](/output/India/PNG/phase_III_Delhi.png)
+![Phase_II_Delhi](/output/Delhi/PNG/Phase_II_Delhi.png)         ![Phase_III_Delhi](/output/Delhi/PNG/phase_III_Delhi.png)
 
-![Phase_IV_Delhi](/output/India/PNG/Phase_IV_Delhi.png)
+![Phase_IV_Delhi](/output/Delhi/PNG/Phase_IV_Delhi.png)
 
 
 
