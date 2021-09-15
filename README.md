@@ -16,7 +16,7 @@ before and during the different phases of lockdown through satellite obsevation 
 - The input folder contains all the input files.
 ### Output
 - The input folder contains all the input files.
-### Requiremet.txt
+### requiremet.txt
 - The Requirement file contains all the packages required to run the project.
 ### Air Quality.ipynb
 - It is a Jupyter Notebook document containing all programs.
@@ -40,6 +40,15 @@ conda install mamba -c conda-forge
 mamba install geemap xarray_leaflet -c conda-forge
 conda install jupyter_contrib_nbextensions -c conda-forge
 ```
+Required packages can also be installed using the Requirement.txt file
+```
+pip install requirement.txt
+
+```
+- Run Air Quality.ipynb file in Jupyter notebook
+### Note:
+- Please check all the input paths and the requirement carefully.
+
 ### Outputs 
 - NO2 level(µmol/m^2) in 2019 and 2020
 
