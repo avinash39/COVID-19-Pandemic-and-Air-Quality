@@ -1,9 +1,12 @@
 # COVID-19 Pandemic and Air-Quality
-# Introduction
+## Introduction 
 ## Files 
 
-# How to run this Project? 
-## Outputs 
+## How to run this Project? 
+### Outputs 
+-  Entropy 
+
+![image](Image_analysis/results/idol_entropy.png)
 
 ## Refrences
 
