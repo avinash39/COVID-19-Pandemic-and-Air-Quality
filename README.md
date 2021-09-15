@@ -7,7 +7,7 @@
 ### Outputs 
 -  NO2 level(µmol/m^2) in 2019 
 
-![2019](/output/India/PNG/2019.png)  |  ![2020](/output/India/PNG/2020.png)
+![2019](/output/India/PNG/2019.png) ![2020](/output/India/PNG/2020.png)
 ## Refrences
 
 - [OpenCV](https://opencv.org)
