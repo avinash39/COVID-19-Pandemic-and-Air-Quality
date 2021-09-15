@@ -108,15 +108,9 @@ pip install requirement.txt
 
 ## Refrences
 
-- [OpenCV](https://opencv.org)
+- [geemap](https://joss.theoj.org/papers/10.21105/joss.02305)
 
-- [Pyimagesearch](https://www.pyimagesearch.com)
+- [GEE](https://doi.org/10.1016/j.rse.2017.06.031)
 
-- [Mathworks](https://in.mathworks.com)
-## Image analysis
+- [Copernicus Sentinel-5P](https://doi.org/10.5270/S5P-s4ljg54)
 
- -  analysis.py - take input image array.
- 
- -  Test_image - input image for analysis.
- 
- -  results - output image.
