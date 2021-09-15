@@ -39,6 +39,19 @@
 
 ![Phase_IV_Delhi](/output/Delhi/PNG/Phase_IV_Delhi.png)
 
+- NO2 level(µmol/m^2) over Bangalore
+
+-   Pre lockdown and Phase-I lockdown
+
+![Pre lockdown_Bang](/output/Bang/PNG/Pre-lockDown_Bang.png) ![Phase_I_Bang](/output/Bang/PNG/phase_I_Bang.png)
+
+-  Phase-II and Phase-III lockdown
+
+![Phase_II_Bang](/output/Bang/PNG/phase_II_Bang.png)         ![Phase_III_Bang](/output/Bang/PNG/phase_III_Bang.png)
+
+-  Phase IV lockdown
+
+![Phase_IV_Bang](/output/Bang/PNG/phase_IV_Bang.png)
 
 
 ## Refrences
