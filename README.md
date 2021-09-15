@@ -16,13 +16,20 @@ before and during the different phases of lockdown through satellite obsevation 
 - The input folder contains all the input files.
 ### Output
 - The input folder contains all the input files.
-### Requiremet
+### Requiremet.txt
 - The Requirement file contains all the packages required to run the project.
 ### Air Quality.ipynb
 - It is a Jupyter Notebook document containing all programs.
 ### Report
 - It is the analysis part of the Project.
 ## How to run this Project? 
+- Create a virtual environment
+
+ ```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 ### Outputs 
 - NO2 level(µmol/m^2) in 2019 and 2020
