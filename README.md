@@ -70,7 +70,7 @@ pip install requirement.txt
 
 ![phase-IV](/output/India/PNG/phase_IV_IND.png)
 
-- NO2 level(µmol/m^2) over Delhi
+## NO2 level(µmol/m^2) over Delhi
 
 - Pre lockdown and Phase-I lockdown
 
@@ -84,7 +84,7 @@ pip install requirement.txt
 
 ![Phase_IV_Delhi](/output/Delhi/PNG/Phase_IV_Delhi.png)
 
-- NO2 level(µmol/m^2) over Bangalore
+## NO2 level(µmol/m^2) over Bangalore
 
 - Pre lockdown and Phase-I lockdown
 
