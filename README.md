@@ -27,6 +27,8 @@
 
 - NO2 level(µmol/m^2) over Delhi
 
+-Pre lockdown                                                   -Phase-I lockdown
+
 ![Pre lockdown_Delhi](/output/Delhi/PNG/pre-lockDown_Delhi.png) ![Phase_I_Delhi](/output/Delhi/PNG/phase_I_Delhi.png)
 
 ![Phase_II_Delhi](/output/Delhi/PNG/Phase_II_Delhi.png)         ![Phase_III_Delhi](/output/Delhi/PNG/phase_III_Delhi.png)
