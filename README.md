@@ -6,7 +6,7 @@
 ### Outputs 
 -  Entropy 
 
-![image](COVID-19-Pandemic-and-Air-Quality/output/India/PNG/)
+![image](COVID-19-Pandemic-and-Air-Quality/output/India/PNG/2019.png)
 
 ## Refrences
 
