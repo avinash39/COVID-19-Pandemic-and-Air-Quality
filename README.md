@@ -47,7 +47,7 @@
 
 -  Phase-II and Phase-III lockdown
 
-![Phase_II_Bang](/output/Bang/PNG/phase_II_Bang.png)         ![Phase_III_Bang](/output/Bang/PNG/phase_III_Bang.png)
+![Phase_II_Bang](/output/Bang/PNG/Phase_II_Bang.png)         ![Phase_III_Bang](/output/Bang/PNG/phase_III_Bang.png)
 
 -  Phase IV lockdown
 
