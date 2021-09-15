@@ -7,7 +7,7 @@
 ### Outputs 
 -  NO2 level(µmol/m^2) in 2019 
 
-![Image 1]("COVID-19-Pandemic-and-Air-Quality/output/India/PNG/2019.png")
+![Image 1]((https://github.com/avinash39/testrepository/COVID-19-Pandemic-and-Air-Quality/output/India/PNG/2019.png)
 
 ## Refrences
 
