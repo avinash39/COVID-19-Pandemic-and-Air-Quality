@@ -1,14 +1,14 @@
 # COVID-19 Pandemic and Air-Quality
 ## Introduction
-Nitrogen Dioxide (NO2), one of the major pollutants, results from vehicular, industrial, and
+Nitrogen Dioxide (NO_2), one of the major pollutants, results from vehicular, industrial, and
 thermal power plant emissions. During the COVID-19 pandemic, a [nationwide lockdown](https://en.wikipedia.org/wiki/COVID-19_lockdown_in_India) was
 imposed into four phases from March 25 - May 31, 2020; Phase-I (25/03/2020 - 14/04/2020),
 Phase-II (15/04/2020 - 03/05/2020), Phase-III (04/05/2020 - 17/05/2020) and Phase-IV
 (18/05/2020 – 31/05/2020). All major anthropogenic activities contributing to atmospheric
 pollution (such as industries, vehicles, and other activities) were restricted during the lockdown.
 The current report investigates the impact of the lockdown on tropospheric NO2 concentrations
-before and during the different phases of lockdown through satellite obsevation and groundbased
-(CPCB) measurement across India and two major cities Delhi and Bangalore. Sentinel-5P NRTI NO2:Near Real-Time Nitrogen Dioxide dataset has been used for the analysis and is directly imported from the [GEE Image Collection](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#description). [GeeMap](https://geemap.org/), a Python package for interactive mapping with [Google Earth Engine](https://earthengine.google.com/) API is used for the analysis.
+before and during the different phases of lockdown through satellite observations and ground-based
+(CPCB) measurements across India and two major cities Delhi and Bangalore. Sentinel-5P NRTI NO2:Near Real-Time Nitrogen Dioxide dataset has been used for the analysis and is directly imported from the [GEE Image Collection](https://developers.google.com/earth-engine/datasets/catalog/COPERNICUS_S5P_NRTI_L3_NO2#description). [GeeMap](https://geemap.org/), a Python package for interactive mapping with [Google Earth Engine](https://earthengine.google.com/) API is used for the analysis.
 
 
 ## Files 
